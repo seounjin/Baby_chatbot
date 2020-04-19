@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.cloud:google-cloud-speech:0.58.0-beta@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/caches/modules-2/files-2.1/com.google.cloud/google-cloud-speech/0.58.0-beta/db53b337f36a21c65c420ca29955189fe6385fd9/google-cloud-speech-0.58.0-beta.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/caches/modules-2/files-2.1/com.google.cloud/google-cloud-speech/0.58.0-beta/d5572ee57b33330cb06fb65e626e7fc00ed7673c/google-cloud-speech-0.58.0-beta-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
